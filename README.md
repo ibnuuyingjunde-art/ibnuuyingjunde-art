@@ -178,7 +178,7 @@ alt="YNLINIX Productive Time"
       src="https://img.shields.io/github/stars/lianix?affiliations=OWNER&style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=080808&color=003B8F"
       alt="Stars"
     />
-  </a>  <a href="https://github.com/lianix?tab=overview">
+  </a>  <a href="https://github.com/ibnuuyingjunde-art?tab=overview">
     <img
       src="https://img.shields.io/github/last-commit/lianix/lianix?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=080808&color=8B0000"
       alt="Last Commit"
