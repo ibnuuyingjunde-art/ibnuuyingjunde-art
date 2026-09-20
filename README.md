@@ -131,28 +131,28 @@ Scripts & productivity tools
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lianix&theme=radical"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ibnuuyingjunde-art&theme=radical"
     width="100%"
     alt="YNLINIX GitHub Profile Details"
   />
 </p><p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lianix&theme=radical"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ibnuuyingjunde-art&theme=radical"
     width="49%"
     alt="YNLINIX GitHub Stats"
   /><img
-src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lianix&theme=radical"
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ibnuuyingjunde-art&theme=radical"
 width="49%"
 alt="YNLINIX Repository Languages"
 />
 
 </p><p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lianix&theme=radical"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ibnuuyingjunde-art&theme=radical"
     width="49%"
     alt="YNLINIX Commit Languages"
   /><img
-src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lianix&theme=radical&utcOffset=7"
+src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ibnuuyingjunde-art&theme=radical&utcOffset=7"
 width="49%"
 alt="YNLINIX Productive Time"
 />
@@ -163,24 +163,24 @@ alt="YNLINIX Productive Time"
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lianix&theme=radical"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ibnuuyingjunde-art&theme=radical"
     width="100%"
     alt="YNLINIX Contribution Profile"
   />
 </p><p align="center">
   <a href="https://github.com/lianix">
     <img
-      src="https://img.shields.io/github/followers/lianix?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=080808&color=8B0000"
+      src="https://img.shields.io/github/followers/ibnuuyingjunde-art?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=080808&color=8B0000"
       alt="Followers"
     />
-  </a>  <a href="https://github.com/lianix?tab=repositories">
+  </a>  <a href="https://github.com/ibnuuyingjunde-art?tab=repositories">
     <img
-      src="https://img.shields.io/github/stars/lianix?affiliations=OWNER&style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=080808&color=003B8F"
+      src="https://img.shields.io/github/stars/ibnuuyingjunde-art?affiliations=OWNER&style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=080808&color=003B8F"
       alt="Stars"
     />
   </a>  <a href="https://github.com/ibnuuyingjunde-art?tab=overview">
     <img
-      src="https://img.shields.io/github/last-commit/lianix/lianix?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=080808&color=8B0000"
+      src="https://img.shields.io/github/last-commit/ibnuuyingjunde-art/ibnuuyingjunde-art?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=080808&color=8B0000"
       alt="Last Commit"
     />
   </a>
@@ -261,7 +261,7 @@ Turn ideas into real products| <img src="https://cdn.jsdelivr.net/gh/twitter/twe
     alt="Footer"
   />
 </p><p align="center">
-  <a href="https://github.com/lianix">
+  <a href="https://github.com/ibnuuyingjunde-art">
     <img
       src="https://img.shields.io/badge/GITHUB-LIANIX-000000?style=for-the-badge&logo=github&logoColor=FFFFFF"
       alt="GitHub Lianix"
