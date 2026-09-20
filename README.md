@@ -168,7 +168,7 @@ alt="YNLINIX Productive Time"
     alt="YNLINIX Contribution Profile"
   />
 </p><p align="center">
-  <a href="https://github.com/lianix">
+  <a href="https://github.com/ibnuuyingjunde-art">
     <img
       src="https://img.shields.io/github/followers/ibnuuyingjunde-art?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=080808&color=8B0000"
       alt="Followers"
