@@ -73,7 +73,7 @@
   <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f7e5.svg" width="16" alt="Red"/> HTML/CSS
   &nbsp; • &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f7e6.svg" width="16" alt="Blue"/> Linux/VPS
-</p>---
+</p>
 
 <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f577.svg" width="26" alt="Spider"/> WHAT I BUILD
 
@@ -103,7 +103,7 @@
 <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f680.svg" width="17" alt="Rocket"/> Deployment
 
 </td></tr>
-</table>---
+</table>
 
 <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f577.svg" width="26" alt="Spider"/> PROJECTS
 
@@ -133,7 +133,7 @@ Scripts & productivity tools
 <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f7e2.svg" width="17" alt="Active"/> ACTIVE
 
 </td></tr>
-</table>---
+</table>
 
 <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f577.svg" width="26" alt="Spider"/> GITHUB SPIDER-VERSE
 
@@ -165,7 +165,7 @@ width="49%"
 alt="YNLINIX Productive Time"
 />
 
-</p>---
+</p>
 
 <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f578.svg" width="26" alt="Web"/> CONTRIBUTION WEB
 
@@ -192,7 +192,7 @@ alt="YNLINIX Productive Time"
       alt="Last Commit"
     />
   </a>
-</p>---
+</p>
 
 <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f577.svg" width="26" alt="Spider"/> CURRENT MISSION
 
@@ -205,7 +205,7 @@ Build better VPS systems| <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@
 Contribute to Open Source| <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f310.svg" width="20" alt="Globe"/>
 Turn ideas into real products| <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f9e0.svg" width="20" alt="Brain"/>
 
-</p>---
+</p>
 
 <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f577.svg" width="26" alt="Spider"/> MY DEVELOPMENT STYLE
 
@@ -242,7 +242,7 @@ Turn ideas into real products| <img src="https://cdn.jsdelivr.net/gh/twitter/twe
 <b>
   <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f680.svg" width="18" alt="Ship"/>
   SHIP
-</b></p>---
+</b></p>
 
 <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f577.svg" width="26" alt="Spider"/> THE SPIDER CODE
 
