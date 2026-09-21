@@ -23,6 +23,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=18&duration=2800&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=850&height=50&lines=Welcome+to+my+little+corner+of+the+web;I+build+websites%2C+bots%2C+automation+and+VPS+systems;No+superpowers%2C+just+coffee+and+code;Every+commit+is+another+swing+forward" alt="Introduction"/>
 </p>---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/0xPacman/0xPacman/master/spin.gif" alt="loading..." />
+</p>
+
+<p align="center">
+  <em>Crafting clean, functional, and curiosity-driven projects, one experiment at a time.</em>
+</p>
+
 <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f577.svg" width="26" alt="Spider"/> ABOUT LIANIX
 
 <p align="center">
