@@ -1,12 +1,7 @@
-<div align="center">
-  <!-- HEADER UTAMA -->
-  <div>
-    <img src="./header.svg" alt="ynliniX's OfC" width="800" />
-  </div>
-  <br/>
-  <!-- METRIK PAMERAN: Margin-top ditambah 10px untuk turun sedikit -->
-  <!-- TERMINAL KODE -->
-  <div>
-    <img src="./terminal.svg" alt="Animated Developer Terminal" width="800" />
-  </div>
-</div>
+![LiaEtempmail](./ynlinix-etempmail.svg)
+
+Layanan disposable temporary email modern untuk menerima email verifikasi dan kotak masuk sementara secara instan.
+
+- **Kategori:** Disposable Email Gateway & Inbox Receiver
+- **Demo Langsung:** [liaetemp.eu.cc](https://liaetemp.eu.cc/)
+- **Source Code:** [github.com/ibnuuyingjunde-art/ynlinix-etempmail.svg](https://github.com/ibnuuyindejunde-art/ynlinix-etempmail.svg)
