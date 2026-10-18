@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 110" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgFile" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b111e"/>
+      <stop offset="100%" stop-color="#060910"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="500" height="110" rx="10" fill="url(#bgFile)" stroke="#1e293b" stroke-width="1"/>
+
+  <!-- Icon Container -->
+  <rect x="24" y="25" width="60" height="60" rx="8" fill="#0f172a" stroke="#2563eb" stroke-width="1.2"/>
+  <!-- File Icon -->
+  <path d="M44 39 H60 L68 47 V71 H44 Z" fill="none" stroke="#60a5fa" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M60 39 V47 H68" fill="none" stroke="#60a5fa" stroke-width="2" stroke-linejoin="round"/>
+  <line x1="50" y1="55" x2="62" y2="55" stroke="#3b82f6" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="50" y1="62" x2="58" y2="62" stroke="#3b82f6" stroke-width="1.5" stroke-linecap="round"/>
+
+  <!-- Text Details -->
+  <text x="104" y="50" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="18" font-weight="700" fill="#ffffff">
+    LiaEtemp
+  </text>
+  <text x="104" y="74" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="400" fill="#94a3b8">
+    Temporary email hosting and sharing service.
+  </text>
+  <rect x="390" y="25" width="86" height="22" rx="4" fill="#0f172a" stroke="#1e293b" stroke-width="1"/>
+  <text x="433" y="40" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="10.5" font-weight="600" fill="#3b82f6">
+    TEMP MAIL
+  </text>
+</svg>
